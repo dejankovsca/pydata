@@ -1,4 +1,4 @@
 # pydata
-**All files on this repository are owned by me**
+**All files on this repository are property of Dejan Kovšca**
 
-No unauthorized access!
+No unauthorized access or copying!
