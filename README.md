@@ -11,11 +11,10 @@ In [1]:
   
   np.hstack((seznam1, a, seznam2))
 
-
-
 Out [1]:
 
   array([2, 3.5, 6, 9, -5, 16])
 
 np.vstack((a, b)) -> dodajanje vrstic matriki
+
 np.column_stack((a, b)) -> dodajanje stolpcev matriki
