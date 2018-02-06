@@ -1,4 +1,5 @@
 # pydata
+izpeljevanje seznamov: seznam_3 = [3*el for el in seznam_1]
 
 In [1]:
 
@@ -15,3 +16,6 @@ In [1]:
 Out [1]:
 
   array([2, 3.5, 6, 9, -5, 16])
+
+np.vstack((a, b)) -> dodajanje vrstic matriki
+np.column_stack((a, b)) -> dodajanje stolpcev matriki
